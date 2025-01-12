@@ -6,46 +6,46 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 100 vh;
     background-image: url('images/sunset.jpg');
 }
 .card {
     background: #355E3B;
-    border-radius: 12px;
+    border-radius: 12 px;
     border: 3px solid #FFCC00;
-    max-width: 300px;
-    padding: 20px;
+    max-width: 300 px;
+    padding: 20 px;
     text-align: center;
 }
 .pic {
-    width: 200px;
-    height: 200px;
+    width: 200 px;
+    height: 200 px;
     border-radius: 50%;
-    border: 3px solid #C0C0C0;
+    border: 3 px solid #C0C0C0;
 }
 .name {
     font-family: 'Pokemon Fire Red Regular';
-    font-size: 2rem;
+    font-size: 2 rem;
     color: #FFFF;
 }
 .major {
     font-family: 'Pokemon Fire Red Regular';
-    font-size:  rem;
+    font-size: 1.5 rem;
     color: #4CAF50;
 }
 .info {
     font-family: 'Pokemon Fire Red Regular';
     text-align: left;
-    font-size: 1.5rem;
+    font-size: 1.5 rem;
     color: #FFFF;
 }
 .links a {
     font-family: 'Pokemon Fire Red Regular';
-    margin: 10px;
-    padding: 8px 12px;
-    font-size: 0.9rem;
+    margin: 10 px;
+    padding: 8 px 12 px;
+    font-size: 0.9 rem;
     color: #ffffff;
     background: #4CAF50;
     text-decoration: none;
-    border-radius: 5px;
+    border-radius: 5 px;
 }
